@@ -18,15 +18,15 @@ A modern **login/sign-in page clone** built using **HTML and CSS**, replicating 
 
 ## Reference
 
-![Login Page Reference](Login Page/Images/reference.png)  
-*Replace this with a screenshot of your project.*
+<img width="680" height="330" alt="reference" src="https://github.com/user-attachments/assets/2b2215f7-f41c-42dd-9c87-0bf71815b36d" />
 
 ---
 
 ## Demo
+<img width="1920" height="1200" alt="screenshot" src="https://github.com/user-attachments/assets/67cdb4e6-7d2f-4277-a9ff-fbe827b1e087" />
 
 ![Login Page Screenshot](Login Page/Images/screenshot.png)  
-*Replace this with a screenshot of your project.*
+
 
 ---
 
