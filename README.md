@@ -1,2 +1,44 @@
-# Login-Page-UI-Recreation
-A modern login/sign-in page clone built using HTML and CSS, replicating a reference design as accurately as possible. This project focuses on responsive layout, UI design, and interactive elements such as hover effects and social media icons. 
+# Login Page Clone
+
+A modern **login/sign-in page clone** built using **HTML and CSS**, replicating a reference design as accurately as possible. This project is a **front-end practice project** aimed at improving UI/UX skills and mastering responsive layout design.
+
+---
+
+## Features
+
+- Email and password input fields with custom icons
+- "Remember Me" checkbox
+- Social media login icons (Facebook, Twitter, Instagram, YouTube) with hover animations
+- "Lost your password?" link
+- Terms of Service and Privacy Policy links
+- Styled with CSS for a modern and visually appealing layout
+- Fully responsive design
+
+---
+
+## Reference
+
+![Login Page Reference](images/reference.png)  
+*Replace this with a screenshot of your project.*
+
+---
+
+## Demo
+
+![Login Page Screenshot](images/screenshot.png)  
+*Replace this with a screenshot of your project.*
+
+---
+
+## Tech Stack
+
+- HTML5  
+- CSS3  
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/login-page-clone.git
