@@ -23,7 +23,8 @@ A modern **login/sign-in page clone** built using **HTML and CSS**, replicating 
 ---
 
 ## Demo
-<img width="1920" height="1200" alt="screenshot" src="https://github.com/user-attachments/assets/67cdb4e6-7d2f-4277-a9ff-fbe827b1e087" />
+
+<img width="1920" height="1044" alt="screenshot" src="https://github.com/user-attachments/assets/59f75405-d8f4-49db-88f7-9cae7bf31abc" />
 
 
 ---
