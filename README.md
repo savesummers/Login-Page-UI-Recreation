@@ -37,8 +37,3 @@ A modern **login/sign-in page clone** built using **HTML and CSS**, replicating 
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/login-page-clone.git
