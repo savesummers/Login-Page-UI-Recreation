@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sign In Page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class = 'section1'>
+            <h1>Welcome Back</h1>
+            <p id = 'welcome-message'>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+            <ul>
+                <li><a href="http://"><img src="images/facebook.png" alt="Facebook" id="facebook"></a></li>
+                <li><a href="http://"><img src="images/twitter.png" alt="Twitter" id="twitter"></a></li>
+                <li><a href="http://"><img src="images/instagram.png" alt="Instagram" id="instagram"></a></li>
+                <li><a href="http://"><img src="images/youtube.png" alt="Youtube" id="youtube"></a></li>
+            </ul>
+        </div>
+        <div class = 'section2'>
+            <h2>Sign in</h2>
+            <form action = 'Sign in' method = 'post'>
+                <div class = 'feild'>
+                    <label for = 'email'>Email Address</label>
+                    <input type = 'email' id = 'email' name = 'email' required>
+                    <label for = 'password'>Password</label>
+                    <input type = 'password' id = 'password' name = 'password' required>
+                </div>
+                <input type = 'checkbox' id = 'remember me' name = 'remember me'> Remember Me<br><br>
+                <input type = 'submit' id = 'Signinnow' value = 'Sign in now'>
+            </form>
+            <a id = 'recover' href="http://">Lost your password?</a>
+            <p id = 'terms'>By clicking on "Sign in now", you agree to <br /><a href="http://">Terms of Service</a> | <a href="http://">Privacy Policy</a>.</p>
+        </div>
+    </body>
+</html>
