@@ -18,14 +18,14 @@ A modern **login/sign-in page clone** built using **HTML and CSS**, replicating 
 
 ## Reference
 
-![Login Page Reference](Images/reference.png)  
+![Login Page Reference](Login Page/Images/reference.png)  
 *Replace this with a screenshot of your project.*
 
 ---
 
 ## Demo
 
-![Login Page Screenshot](Images/screenshot.png)  
+![Login Page Screenshot](Login Page/Images/screenshot.png)  
 *Replace this with a screenshot of your project.*
 
 ---
@@ -34,6 +34,3 @@ A modern **login/sign-in page clone** built using **HTML and CSS**, replicating 
 
 - HTML5  
 - CSS3  
-
----
-
