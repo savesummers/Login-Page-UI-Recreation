@@ -1,35 +1,69 @@
 # Login Page Clone
 
-A modern **login/sign-in page clone** built using **HTML and CSS**, replicating a reference design as accurately as possible. This project is a **front-end practice project** aimed at improving UI/UX skills and mastering responsive layout design.
+A modern **login/sign-in page clone** built using **HTML and CSS**, replicating a reference design as accurately as possible. This project is a **front-end practice project** focused on improving **UI/UX**, **layout structuring**, and **CSS positioning techniques**.
 
 ---
 
 ## Features
 
-- Email and password input fields with custom icons
+- Email and password input fields
+- Password visibility toggle (show / hide password icon)
 - "Remember Me" checkbox
-- Social media login icons (Facebook, Twitter, Instagram, YouTube) with hover animations
-- "Lost your password?" link
-- Terms of Service and Privacy Policy links
-- Styled with CSS for a modern and visually appealing layout
-- Fully responsive design
+- "Forgot Password?" link
+- Google sign-in button with custom icon
+- Right-aligned login panel layout
+- Full-screen background image
+- Clean, modern UI styling
+- Hover effects for buttons and links
+- Responsive layout using Flexbox
+- Well-structured and semantic HTML
 
 ---
 
 ## Reference
 
-<img width="680" height="330" alt="reference" src="https://github.com/user-attachments/assets/2b2215f7-f41c-42dd-9c87-0bf71815b36d" />
+![Reference](https://github.com/user-attachments/assets/8f2a89e0-0c23-4a86-a4f5-647fe240e790)
+
 
 ---
 
 ## Demo
-
-<img width="1920" height="1044" alt="screenshot" src="https://github.com/user-attachments/assets/59f75405-d8f4-49db-88f7-9cae7bf31abc" />
+<img width="1920" height="1041" alt="Screenshot 2025-12-26 131401" src="https://github.com/user-attachments/assets/3d8378da-a991-450d-a8d4-78eb961294c4" />
 
 
 ---
 
 ## Tech Stack
 
-- HTML5  
-- CSS3  
+- **HTML5**
+- **CSS3**
+  - Flexbox
+  - Custom backgrounds
+  - Hover states
+  - Responsive units (`vh`, `%`)
+
+---
+
+## Purpose
+
+This project was built as a **UI cloning and layout practice exercise**, focusing on:
+
+- Proper centering using Flexbox
+- Creating structured and accessible login forms
+- Improving visual hierarchy and spacing
+- Understanding modern CSS layout techniques
+
+---
+
+## Future Improvements
+
+- Add JavaScript form validation
+- Implement real authentication flow
+- Improve accessibility (ARIA labels)
+- Add dark/light mode toggle
+
+---
+
+## Author
+
+Built by **[Your Name]** as part of front-end development practice.
