@@ -22,13 +22,15 @@ A modern **login/sign-in page clone** built using **HTML and CSS**, replicating 
 
 ## Reference
 
-![Reference](https://github.com/user-attachments/assets/8f2a89e0-0c23-4a86-a4f5-647fe240e790)
+
+<img width="680" height="330" alt="reference" src="https://github.com/user-attachments/assets/cc6002c1-b00e-4c5b-b1c2-565318393393" />
 
 
 ---
 
 ## Demo
-<img width="1920" height="1041" alt="Screenshot 2025-12-26 131401" src="https://github.com/user-attachments/assets/3d8378da-a991-450d-a8d4-78eb961294c4" />
+
+<img width="1920" height="1044" alt="screenshot" src="https://github.com/user-attachments/assets/2aa47b83-0858-4ef3-b66a-7e327e8be8d3" />
 
 
 ---
