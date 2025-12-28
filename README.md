@@ -64,5 +64,4 @@ This project was built as a **UI cloning and layout practice exercise**, focusin
 - Improve accessibility (ARIA labels)
 - Add dark/light mode toggle
 
----
 
