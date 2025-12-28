@@ -66,6 +66,3 @@ This project was built as a **UI cloning and layout practice exercise**, focusin
 
 ---
 
-## Author
-
-Built by **[Your Name]** as part of front-end development practice.
